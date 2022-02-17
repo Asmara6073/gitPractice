@@ -6,6 +6,7 @@ public class batch12 {
 		
 		System.out.println("were we were");
 		System.out.println("we sdsfgsdgsgsdgdsgsdgdsgdsgsdg");
+		System.out.println("agkfnkadnfanfasfnjasfnas");
 		
 		
 	}
